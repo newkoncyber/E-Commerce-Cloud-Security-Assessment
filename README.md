@@ -1,1 +1,1 @@
-# E-commerce-Cloud-Security-Assessment
+Securing a Cloud-Based E-Commerce Platform in AWS
